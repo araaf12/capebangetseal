@@ -24,7 +24,9 @@ function LandingPage() {
           <div style={{ textAlign: 'center' }}>
             <h2>Allowist Tutorial</h2>
             <p>
-           1. Just try it  2. Create your name allow list
+           1. Just try it
+            </p>
+           2. Create your name allow list
             </p>
           </div>
           <Link to="/allowlist-example">
