@@ -24,8 +24,8 @@ function LandingPage() {
           <div style={{ textAlign: 'center' }}>
             <h2>ALLOWLIST</h2>
               <h2>Tutorial</h2>
-
             
+            <p>
             </p>
           </div>
           <Link to="/allowlist-example">
