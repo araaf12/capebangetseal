@@ -26,7 +26,7 @@ function LandingPage() {
               <h2>Tutorial</h2>
             <p>
             1. Just click Try It
-            <p>
+            
             </p>
           </div>
           <Link to="/allowlist-example">
