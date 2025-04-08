@@ -23,7 +23,7 @@ function LandingPage() {
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
             <h2>ALLOWLIST</h2>
-            <h2>Tutorial</h2>
+<h2>Tutorial</h2>
             <p>
            
             </p>
