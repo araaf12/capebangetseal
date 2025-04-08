@@ -22,10 +22,10 @@ function LandingPage() {
       <Card>
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
-            <h2>Allowlist Example</h2>
+            <h2>Allowist Tutorial</h2>
             <p>
               1. Click 'Try it'
-              
+              <p>               
               2. Create Your Name Allow List
             </p>
           </div>
