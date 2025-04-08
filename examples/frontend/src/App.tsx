@@ -25,8 +25,7 @@ function LandingPage() {
             <h2>Allowlist Example</h2>
             <p>
               1. Click 'Try it'
-2. Create Your Name Allow List
-3. Add New Sui Wallet
+              2. Create Your Name Allow List
             </p>
           </div>
           <Link to="/allowlist-example">
