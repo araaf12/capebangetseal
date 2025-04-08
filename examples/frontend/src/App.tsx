@@ -35,7 +35,7 @@ function LandingPage() {
       <Card>
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
-            <h2>Subscription Example</h2>
+            <h2>Subscription Tutorial</h2>
             <p>
               Shows how a creator can define a subscription based access to its published files. The
               creator defines subcription fee and how long a subscription is valid for. The creator
