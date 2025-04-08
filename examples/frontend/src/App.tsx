@@ -25,21 +25,8 @@ function LandingPage() {
             <h2>Allowlist Example</h2>
             <p>
               1. Click 'Try it'
-
 2. Create Your Name Allow List
-
 3. Add New Sui Wallet
-
-4. Select Walrus service
-
-5. Upload file
-
-6. Click 'First step: Encrypt and upload to Walrus'
-
-7. Click 'Second step: Associate file to Sui object'
-
-8. Done
-            
             </p>
           </div>
           <Link to="/allowlist-example">
