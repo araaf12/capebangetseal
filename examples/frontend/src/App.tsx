@@ -23,9 +23,7 @@ function LandingPage() {
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
             <h2>ALLOWLIST</h2>
-            <h2>Tutorial</h2>
-            1.Just Try It
-           
+              <h2>Tutorial</h2>
             </p>
           </div>
           <Link to="/allowlist-example">
