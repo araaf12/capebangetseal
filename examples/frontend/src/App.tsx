@@ -25,11 +25,8 @@ function LandingPage() {
             <h2>ALLOWLIST</h2>
               <h2>Tutorial</h2>
                <p>
-                 1. Just click Try It
-                  2. Create your name allow list
-                 3. Add new SUI wallet
-                4. Select Walrus service
-               5.  
+                 
+                 
             </p>
           </div>
           <Link to="/allowlist-example">
